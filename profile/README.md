@@ -4,4 +4,4 @@
 
 Developing an autonomous drone network for sustainable transportby zero-emission in air delivery
 
-Official student team of TU/e
+Official student team of TU/e <img align="right" src="branding/TUe-logo-descriptor-stack-scarlet-pantone711c.svg" />
