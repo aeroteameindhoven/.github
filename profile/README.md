@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://aeroteameindhoven.nl">
-        <img height="50px" src="../branding/aero/logoset/4x/HorizontalBlue@4x.png" alt="Aero Team Eindhoven"
+        <img height="50px" src="/branding/aero/logoset/4x/HorizontalBlue@4x.png" alt="Aero Team Eindhoven"
             title="Aero Team Eindhoven Logo" />
     </a>
     <h2>Redefine Flying.</h2>
@@ -11,7 +11,7 @@
         <b>Official student team of</b>
         <br />
         <a href="https://tue.nl/en">
-            <img height="50px" alt="TU/e" src="../branding/tue/TUe-logo-descriptor-line-scarlet-rgb.png" />
+            <img height="50px" alt="TU/e" src="/branding/tue/TUe-logo-descriptor-line-scarlet-rgb.png" />
         </a>
     </footer>
 </div>
