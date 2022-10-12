@@ -11,7 +11,8 @@
         <b>Official student team of</b>
         <br />
         <a href="https://tue.nl/en">
-            <img height="50px" alt="TU/e" src="/branding/tue/TUe-logo-descriptor-line-scarlet-rgb.png" />
+            <img height="50px" src="/branding/tue/TUe-logo-descriptor-line-scarlet-rgb.png" alt="TU/e"
+                title="Eindhoven University of Technology logo" />
         </a>
     </footer>
 </div>
